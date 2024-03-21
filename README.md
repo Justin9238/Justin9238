@@ -1,5 +1,5 @@
 # Welcome to my profile!
-## 🏆 About Me
+## 👋 About Me
 Hello, there! I'm Justin, a talented & experienced backend/fullstack developer.
 
 ## 👯 I’m looking to collaborate on
