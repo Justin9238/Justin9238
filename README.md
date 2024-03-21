@@ -1,6 +1,6 @@
 # Welcome to my profile!
 ## 🏆 About Me
-Hello, there! I'm Justin, a passionate backend/fullstack developer.
+Hello, there! I'm Justin, a talented & experienced backend/fullstack developer.
 
 ## 👯 I’m looking to collaborate on
 I'm open to collaborating on interesting projects related to MERN, MEVN, and DevOps pratices. If you have something exciting in mind, feel free to reach out!
